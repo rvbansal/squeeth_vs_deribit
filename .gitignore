@@ -1,0 +1,11 @@
+*.DS_Store
+__pycache__/
+outputs/
+local_assets/
+
+processed_deribit_datasets/
+processed_squeeth_datasets/
+squeeth_datasets/
+strategy_dfs/
+squeeth_vs_deribit_strategy.pdf
+
